@@ -5,6 +5,7 @@ fn main() {
 
     println!("x = {}", x);
     x = 10;
+    let mut ectasy = "stuff";
 
     let y = x + 5;
 
